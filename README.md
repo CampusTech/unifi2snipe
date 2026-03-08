@@ -14,6 +14,20 @@ Sync network devices from the [UniFi Site Manager API](https://developer.ui.com/
 
 ## Installation
 
+**Download a pre-built binary** (recommended) from the [latest release](https://github.com/CampusTech/unifi2snipe/releases/latest):
+
+```bash
+# macOS (Apple Silicon)
+curl -L https://github.com/CampusTech/unifi2snipe/releases/latest/download/unifi2snipe-darwin-arm64 -o unifi2snipe
+chmod +x unifi2snipe
+
+# Linux (amd64)
+curl -L https://github.com/CampusTech/unifi2snipe/releases/latest/download/unifi2snipe-linux-amd64 -o unifi2snipe
+chmod +x unifi2snipe
+```
+
+Or install with Go:
+
 ```bash
 go install github.com/CampusTech/unifi2snipe@latest
 ```
