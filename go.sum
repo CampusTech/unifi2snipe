@@ -1,5 +1,3 @@
-github.com/CampusTech/go-snipeit v0.0.0-campustech.0.20260308012256-5febb245ef07 h1:AlCVIWSTA5OgTnaNih2kiijpn1OKnSb3hPEypWxsZ8s=
-github.com/CampusTech/go-snipeit v0.0.0-campustech.0.20260308012256-5febb245ef07/go.mod h1:dzmCr1wp/ZqbcdyYO/R+eWB68ZLIbGH1D01ZV6wfiTs=
 github.com/RaveNoX/go-jsoncommentstrip v1.0.0/go.mod h1:78ihd09MekBnJnxpICcwzCMzGrKSKYe4AqU6PDYYpjk=
 github.com/apapsch/go-jsonmerge/v2 v2.0.0 h1:axGnT1gRIfimI7gJifB699GoE/oq+F2MU7Dml6nw9rQ=
 github.com/apapsch/go-jsonmerge/v2 v2.0.0/go.mod h1:lvDnEdqiQrp0O42VQGgmlKpxL1AP2+08jFMw88y4klk=
@@ -53,6 +51,8 @@ github.com/lexfrei/go-unifi v0.3.1 h1:PEIrhmJ5BRiKxRjWGToP2aghSfcL3WTtLSB44OQRBu
 github.com/lexfrei/go-unifi v0.3.1/go.mod h1:VZBXyQ35iPPhdJdkbqvk5HXEE6Vho5z3LyZZzPMLawk=
 github.com/mailru/easyjson v0.9.1 h1:LbtsOm5WAswyWbvTEOqhypdPeZzHavpZx96/n553mR8=
 github.com/mailru/easyjson v0.9.1/go.mod h1:1+xMtQp2MRNVL/V1bOzuP3aP8VNwRW55fQUto+XFtTU=
+github.com/michellepellon/go-snipeit v0.0.0-20260308041334-b4baa85a4d8c h1:ECBfo3wZZNeM9x5A2mPvQKswrxiinMZZIrbP9+44DmU=
+github.com/michellepellon/go-snipeit v0.0.0-20260308041334-b4baa85a4d8c/go.mod h1:N5ro1zf9aciff0dTslglVIuP/xGWxYVuZzkFWvSi08U=
 github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 h1:RWengNIwukTxcDr9M+97sNutRR1RKhG96O6jWumTTnw=
 github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826/go.mod h1:TaXosZuwdSHYgviHp1DAtfrULt5eUgsSMsZf+YrPgl8=
 github.com/oapi-codegen/runtime v1.2.0 h1:RvKc1CVS1QeKSNzO97FBQbSMZyQ8s6rZd+LpmzwHMP4=

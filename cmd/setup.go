@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	snipeit "github.com/CampusTech/go-snipeit"
+	snipeit "github.com/michellepellon/go-snipeit"
 	"github.com/CampusTech/unifi2snipe/config"
 	"github.com/CampusTech/unifi2snipe/snipe"
 )

@@ -7,10 +7,7 @@ unifi2snipe is a Go CLI tool that syncs UniFi network devices into Snipe-IT asse
 ## Build & Run
 
 ```bash
-# Build (private fork requires env vars)
-GONOSUMCHECK=github.com/CampusTech/go-snipeit GONOSUMDB=github.com/CampusTech/go-snipeit go build ./...
-
-# Run
+go build ./...
 go run . sync -v
 go run . setup
 go run . download

@@ -9,7 +9,7 @@ import (
 	"io"
 	"strings"
 
-	snipeit "github.com/CampusTech/go-snipeit"
+	snipeit "github.com/michellepellon/go-snipeit"
 	"github.com/sirupsen/logrus"
 )
 
